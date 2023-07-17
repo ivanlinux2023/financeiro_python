@@ -1,0 +1,12 @@
+Para verificar o Python
+python --version
+Se o python for instalado com sucesso, a versão do python instalada em seu sistema será exibida.
+
+Para verificar pip
+pip -V
+A versão do pip será exibida, se for instalada com sucesso em seu sistema.
+
+Passo 2 - Instale o Tkinter
+Tkinter pode ser instalado usando pip. O seguinte comando é executado no prompt de comando para instalar o Tkinter.
+
+pip install tk
